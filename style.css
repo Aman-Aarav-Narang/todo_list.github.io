@@ -24,3 +24,19 @@ body{
     width: 500px;
     margin: auto;
 }
+@media (max-width: 480px) {
+
+    #todolist{
+        width: 350px;
+        display: inline;
+        text-align: center;
+    }
+    .btn{
+        margin-top: 5px;
+    }
+
+    #text {
+        width: 300px;
+    }
+    
+}
