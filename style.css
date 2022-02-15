@@ -1,0 +1,26 @@
+body{
+    font-family:sans-serif;
+    background-color:rgb(211, 164, 255);
+}
+.container {
+  
+    /* border: 2px solid black; */
+    text-align: center;
+  
+}
+
+#text {
+    width: 348px;
+    height: 25px;
+    font-size: medium;
+}
+
+.btn {
+    height: 30px;
+    font-size: 15px;
+}
+
+#todolist {
+    width: 500px;
+    margin: auto;
+}
